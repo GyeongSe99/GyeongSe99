@@ -61,12 +61,4 @@
   <a href="https://www.instagram.com/worldgyeong_1k/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 </p>
 
-<br>
-
-</div>
-  <div style="text-align: left;"> 
-  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=GyeongSe99&bg_color=60,d1fdff,fddb92&title_color=000000&text_color=000000"/> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyeongSe99&layout=compact&bg_color=60,d1fdff,fddb92&title_color=000000&text_color=000000"/> 
-  </div> 
-</div>
-  
+<br>  
