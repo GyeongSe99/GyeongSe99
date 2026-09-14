@@ -48,18 +48,18 @@ Java와 Spring Boot로 백엔드 개발을 시작해 위치 기반의 Gamificati
   기능이 잘 동작하는 것만큼 사용하기 편한 흐름과 보기 좋은 디자인을 중요하게 생각합니다. 아이디어를 직접 UI로 만들어보는 것을 좋아하며, AI 서비스와 게임의 UI 디자인에도 관심이 있습니다. HTML·CSS·JavaScript를 주로 사용하고, React, TypeScript, JSX, Tailwind CSS도 사용해본 경험이 있습니다.
 
 - **생성형 AI 이미지**\
-  NovelAI Diffusion, ComfyUI, [ChatGPT Images 2.5](https://openai.com/index/introducing-chatgpt-images-2-5/) 등 다양한 생성형 AI 툴을 활용한 이미지 생성에 관심이 있습니다. 이를 1인 게임 개발에 필요한 캐릭터·아이콘·배경 에셋 제작에 활용하는 방법도 탐색하고 있습니다.
+  NovelAI Diffusion, ComfyUI, ChatGPT Images 2.5 등 다양한 생성형 AI 툴을 활용한 이미지 생성에 관심이 있습니다. 이를 1인 게임 개발에 필요한 캐릭터·아이콘·배경 에셋 제작에 활용하는 방법도 탐색하고 있습니다.
 
 <br>
 
 ## 🚀 Projects
-### 🌍 [Explorer Gabom](https://github.com/username/gabom)  
+### 🌍 [Explorer Gabom](https://github.com/final-gabom/gabom-project)  
 위치 기반 **탐험 & 퀘스트 플랫폼**  
 - 사용자가 직접 장소를 등록하고, 탐험 미션을 인증하며 보상/레벨/칭호를 얻는 서비스  
 - **Spring Boot · QueryDSL · MySQL · Redis · AWS S3 · Docker**  
 - 검색 최적화를 위해 **Elasticsearch + Nori Tokenizer** 적용  
 - 팀장 역할로 **설계 → 구현 → 배포** 전 과정 리딩
-### 🏫 [SSAFICE](https://github.com/username/ssafice)  
+### 🏫 [SSAFICE](https://github.com/GyeongSe99/SSAFICE)  
 삼성 청년 SW 아카데미(SSAFY) 학생들을 위한 학사 관리 플랫폼  
 - **공지사항, 일정 관리** 등 SSAFY 생활 편의를 위한 기능 제공  
 - **Spring Boot · MariaDB · JPA · Redis** 기반으로 구축  
